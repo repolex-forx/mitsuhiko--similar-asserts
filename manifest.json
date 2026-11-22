@@ -1,0 +1,45 @@
+{
+  "manifest_version": "1.0",
+  "org": "mitsuhiko",
+  "repo": "similar-asserts",
+  "versions": [
+    {
+      "commit": "4eff50b597acc7f7ca65606d015da2fc5061273c",
+      "parsed_at": "2026-11-22T12:08:28.707245+00:00",
+      "tag": "2.0.0",
+      "filetree": "filetree/4eff50b597acc7f7ca65606d015da2fc5061273c.nq.gz",
+      "blobs": [
+        "blob/d088abe8c8e2478f78519f3fbb0b6ebf391e6b65.nq.gz",
+        "blob/1e95303f698729288f07cb0a3122248517d4547a.nq.gz",
+        "blob/e9654858213dc0717d25baed1a89038a7032ae3f.nq.gz",
+        "blob/b1f0fbcf1df57816283877a0286227219881411e.nq.gz",
+        "blob/cfe41fb6f823e0aca87072ad6aad3cfba67edce3.nq.gz",
+        "blob/1560fac8a288a23c1e1e24c9a12aed4da427de9c.nq.gz",
+        "blob/43e8fa8a26e28c12c794c84eba12f4d445ff1005.nq.gz",
+        "blob/16fe87b06e802f094b3fbb0894b137bca2b16ef1.nq.gz",
+        "blob/3606b44f4ec2f6065e8afbf26cb3208a11a967c0.nq.gz",
+        "blob/1f8c5156cf5f40f5958b0d836d766778b47871c0.nq.gz",
+        "blob/0cb5507a0baab24d5f8db52c632f328f6777176a.nq.gz",
+        "blob/c2f8580eb932eade75c835fd8b00d55e185b2cfd.nq.gz",
+        "blob/ee57f1df49f10e6d30c97484f4001cbf2088d385.nq.gz",
+        "blob/909f05cfa0ccb41316af89f5ef530cc568bed663.nq.gz",
+        "blob/31bd516ec26b41425a08f0be867197c6bf2ed22b.nq.gz",
+        "blob/231c155700ddd20976fc527e8c571aba59b8ccbb.nq.gz",
+        "blob/cd44b103ddd43c07c7495e63ed76cbff079baed4.nq.gz",
+        "blob/73926b3f21e2568071e904c5447dfc726ecad69d.nq.gz",
+        "blob/4b5052cb5f67b39277c9a32c48f599ac131a6567.nq.gz",
+        "blob/449aea61fdf18f95aaedfb6ca5684020f6449ecf.nq.gz",
+        "blob/3d7e6b714b2aa0926646ddb7fdf80b626a4fde43.nq.gz",
+        "blob/1859c8251b2b79633093bd585d51fc2789d61319.nq.gz",
+        "blob/7a8b1135c963e3db38903d8beda187ea373c32f6.nq.gz",
+        "blob/2c96eb1b6517f2617f9ddeae9f07f5fd7bd7ddef.nq.gz",
+        "blob/18b16becec4a7e299eaed17e7971c106ec6e8875.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
