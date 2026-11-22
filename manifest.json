@@ -37,6 +37,42 @@
       ],
       "ast": [
         "aggregate/ast/4eff50b597acc7f7ca65606d015da2fc5061273c/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/4eff50b597acc7f7ca65606d015da2fc5061273c.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "similar",
+          "ecosystem": "CARGO",
+          "version": "3.0.0",
+          "githubOrg": "mitsuhiko",
+          "githubRepo": "similar",
+          "githubCommit": "db010ec3d1a0dd9f5b8e971d9030dadcc6df3cd9",
+          "githubTag": "3.0.0",
+          "githubUrl": "https://github.com/mitsuhiko/similar",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "console",
+          "ecosystem": "CARGO",
+          "version": "0.16.0",
+          "githubOrg": "console-rs",
+          "githubRepo": "console",
+          "githubCommit": "bda6a6e7a7e5e1ca4f66f51bd11faa70a1f37331",
+          "githubTag": "0.16.0",
+          "githubUrl": "https://github.com/console-rs/console",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde",
+          "ecosystem": "CARGO",
+          "version": "1.0.228",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubCommit": "a866b336f14aa57a07f0d0be9f8762746e64ecb4",
+          "githubTag": "v1.0.228",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
